@@ -12,7 +12,7 @@ api doc: http://docs.chaincloud.com/en/latest/chaincloud-v/v-device-sample.html
 
 ###2. To Run this project locally
 ```shell
-$ git clone https://git.coding.net/classic/chaincloudClientDemo.git
+$ git clone https://github.com/chaincloud-dot-com/chaincloud-v-website-demo-java.git
 $ run com.server.Application
 ```
 
